@@ -1,5 +1,5 @@
 # limitless-onslaught
-Have fun with this poorly coded low-effort java game. :-) <br />
+Have fun with this low-effort java game. :-) <br />
 ## INSTALLATION
 Download the JAR file <br />
 <br />
