@@ -3,7 +3,7 @@ This is the first large project of mine that I have uploaded to GitHub. Hope you
 
 ## INSTALLATION
 
-1. Download Limitless Onslaught 80719.zip <br />
+1. Download Limitless Onslaught 80721.zip <br />
 2. Extract the .zip file to your desired location <br />
 <br />
 That's pretty much it for now <br />
@@ -14,6 +14,7 @@ That's pretty much it for now <br />
 * Fire Primary - Space Bar <br />
 * Fire Secondary - M <br />
 * Open Store - P <br />
+* Open Settings - O <br />
 * Pause Game - Esc <br />
 
 ## HOW TO PLAY
