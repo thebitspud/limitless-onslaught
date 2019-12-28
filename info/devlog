@@ -1,0 +1,186 @@
+Project Defender - Development Log
+
+	-	-	-	-	-	-	-	-
+	
+Version history:
+
+80323
+	Started work on 'Project Defender'
+	Created game framework
+		Implemented JFrame
+		Added gameloop
+		Implemented image rendering
+		Added central GameManager class
+		Created basic state system
+		Implemented key and mouse interactions
+	Added tiles and level rendering
+	
+80324
+	Added UI buttons
+	Finished setting up state classes
+		Can now move between states
+	Added player entity
+	Improved mouse and key detection system
+	Added proper entity system
+		Implemented mobs
+		Implemented projectiles
+	Added player projectile firing
+	Implemented player-mob collisions
+	
+80325
+	Implemented mob-projectile collisions
+	Added random spawning
+	Added the Drone and Mine mobs
+		Implemented timed mob firing
+	Added Lasers and Bullets
+	Implemented game scores
+	Added lose conditions
+	Implemented ammuntion system
+		Added reloading
+	Added a proper endgame screen
+		Restart option
+	Added currency
+	Added Drifter and Saucer mobs
+		Drifting AI
+		
+80326
+	Added velocity to projectile code
+	Implemented settngs overlay
+		Added invincibility toggle
+	Keyboard shortcuts
+		R to reload
+		Esc to pause
+	Added simple title screen text
+	Added 'reloading' indicator
+	Implemented settings overlay
+		Invincibilitiy toggle
+	Added 'score validity' tracker
+		
+80327
+	Implemented in-game purchasables store
+		Added repair purchasable
+		Added ammunition purchasables
+		P to enter store
+	Added SaucerV2 mob
+	Added individual weapons systems
+	Added Shield and Vaporizer mobs
+	Implemented 'out of ammo' indicator
+	Balanced game
+	
+80505
+	Improved and revised armament system
+	Added weapons systems purchases
+	Weapons systems organized into primary and secondary armaments
+		Space to fire primary / M to fire secondary
+	Added dual and triple machine guns
+	Implemented single shot and triple shot missiles
+	Modified ammo system
+	Added Supernova mob
+		Implemented shield vanguard spawn
+	
+80506
+	Weapons purchases now reset upon death
+	Balance and value changes
+	
+80508
+	Added penta missiles
+	Added quad high velocity machine gun
+	Renamed various assets
+	Added more weapon upgrade levels
+	Balance changes
+	
+80528
+	Implemented simple exhaust flames upon movement
+	Added Obstructor mob
+		One mob can have multiple rotating AIs
+	Added score display
+	Added restart game button
+	
+80603
+	Dynamic scrolling background
+	Animated exhaust flames
+	Added looping background music
+	Added sound effects
+	Changed project path
+	
+80719
+	Fixed last score not resetting
+	Implemented sound/music toggles and cycling
+	implemented backdrop switching (settings)
+	Fixed music not resetting bug
+	Improved exhaust flame assets
+	Optimized UI buttons
+	Playability and balance changes
+	
+80720
+	Fixed an Obstructor spawning bug
+	Improved Saucer AI
+	Added 'end game' button
+	Added shielded drone spawn grouping
+	Added end screen score display
+	Added button click sounds
+	Added projectile collision sounds
+	Balance changes
+	
+80721
+	Fixed delayed store bug
+	Improved keyboard useability
+		Esc key functionality
+		O for settings menu (from anywhere)
+	Hitbox registration improved
+
+80722
+	Added explosions
+		Missiles now explode for collateral damage upon hitting an enemy unit
+	Temorarily removed the Penta Missile-Launcher
+	Added the Triple High-Explosive Missile-Launcher
+		Augmented missiles (more damage and larger explosions)
+	Various changes to accomodate for missile changes
+	Balance changes
+	
+80723
+	Added large explosion sprite for augmented missiles
+
+	-	-	-	-	-	-	-	-
+	
+Current version: 80723
+Goal: Top down shoot-em-up
+	Aliens lul
+	
+Current priorities:
+	Complete adding sound effects
+		Reload
+		Spawn minions
+		Mob kill
+	Detailed statistics
+	Explosions upon killing certain mobs
+	Mouse-based control scheme
+	
+Future goals:
+	Overhaul code (remove hardcode/spaghet)
+	Fix projectiles lagging out bug
+	Jeremy/URF mode (settings)
+	
+	How to play guide
+	Better UI
+	
+	More/better mobs
+		Proper 'boss' mobs
+	Graphics overhaul (no more 1 minute sprites)
+	
+	Different types of weapons
+		Weapons system selection
+		Better tech tree system
+	Purchasable player passives
+		Timed seeker missile
+		Regenerating shield
+	Player active abilities
+		Temporary shield/force field
+		Missile storm/wipeout
+		
+	Proper level/stage system
+		More modes than just arcade/endless
+	
+	-	-	-	-	-	-	-	-
+		
+Thebitspud™ 2018
