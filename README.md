@@ -1,5 +1,6 @@
 # limitless-onslaught
-This is the first large project of mine that I have uploaded to GitHub. Hope you like it! :-) <br />
+July 21, 2018: This is the first large project of mine that I have uploaded to GitHub. Hope you like it! :-) <br />
+Dec. 28, 2019: Uploaded the full source code for this game.
 
 ## INSTALLATION
 
