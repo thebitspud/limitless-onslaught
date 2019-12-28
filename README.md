@@ -7,7 +7,6 @@ This is the first large project of mine that I have uploaded to GitHub. Hope you
 2. (Optional) Create an empty folder called 'info' in the same location as the .jar file
 3. (Optional) Inside 'info', create a blank text document titled 'history.txt'
 4. Run the .jar file to play <br />
-<br />
 
 ## CONTROLS
 
