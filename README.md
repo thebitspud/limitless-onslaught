@@ -3,10 +3,11 @@ This is the first large project of mine that I have uploaded to GitHub. Hope you
 
 ## INSTALLATION
 
-1. Download Limitless Onslaught 80721.zip <br />
-2. Extract the .zip file to your desired location <br />
+1. Download limitless-onslaught-80723.jar <br />
+2. (Optional) Create an empty folder called 'info' in the same location as the .jar file
+3. (Optional) Inside 'info', create a blank text document titled 'history.txt'
+4. Run the .jar file to play <br />
 <br />
-That's pretty much it for now <br />
 
 ## CONTROLS
 
@@ -38,12 +39,8 @@ If you want to mess around, you can turn on invincibility in the settings menu. 
 * Low-effort sound effects <br />
 * Heavily compressed royalty-free music <br />
 * Made in pure Java <br />
-<br />
-I don't know how or why my code works, but for some reason it does. <br />
 
-## RESOURCES
+## MUSIC
 
 Digital Ether : https://youtu.be/KJKswU24TWQ <br />
 Space Battle : https://youtu.be/NVtM5IZkJtU <br />
-
-Version Archive : https://drive.google.com/open?id=1k_jdd2o-9Y6n0mDKGYN7JlV73DKiSgbp
